@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>JSShowBottomBar</key>
+	<string>JSShowBottomBar</string>
+	<key>JSHideBottomBar</key>
+	<string>JSHideBottomBar</string>
+	<key>SetNavigationTitle</key>
+	<string>JSSetNavigationTitle</string>
+	<key>JSSetNavigationBarBackItem</key>
+	<string>JSSetNavigationBarBackItem</string>
+</dict>
+</plist>
